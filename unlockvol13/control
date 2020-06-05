@@ -1,0 +1,9 @@
+Package: com.agent22922.unlockvol13
+Name: UnlockVol13
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Allow changing volume while locked
+Maintainer: agent22922
+Author: agent22922
+Section: Tweaks

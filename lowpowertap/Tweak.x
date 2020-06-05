@@ -9,14 +9,12 @@
 -(void)toggleLowPowerMode;
 @end
 
-
 %hook UIStatusBarWindow
 	- (id)initWithFrame:(CGRect)frame {
+		self = %orig;
 		UITapGestureRecognizer *doubleTap = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(toggleLowPowerMode)];
 		doubleTap.numberOfTapsRequired = 2;
-		//UIView *newView = [[UIView alloc] initWithFrame:CGRectMake(frame.size.width/2.0,frame.origin.y,frame.size.width/2.0,frame.size.height)];
 		[self addGestureRecognizer:doubleTap];
-		//[self addSubview:newView];
 		return %orig;
 	}
 	%new
