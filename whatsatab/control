@@ -1,0 +1,9 @@
+Package: com.agent22922.whatsatab
+Name: WhatsATab
+Depends: mobilesubstrate, preferenceloader
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: Hide certain tabs of the WhatsApp tab bar
+Maintainer: agent22922
+Author: agent22922
+Section: Tweaks

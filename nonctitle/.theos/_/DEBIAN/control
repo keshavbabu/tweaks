@@ -1,0 +1,10 @@
+Package: com.agent22922.nonctitle
+Name: NoNCTitle
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: agent22922
+Author: agent22922
+Section: Tweaks
+Version: 0.0.1-2+debug
+Installed-Size: 52

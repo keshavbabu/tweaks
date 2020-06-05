@@ -1,0 +1,10 @@
+Package: com.agent22922.norecentfiles
+Name: NoRecentFiles
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Hide the annoying tab bar on the bottom of the files app and automatically open to the "Browse" tab.
+Maintainer: agent22922
+Author: agent22922
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 168

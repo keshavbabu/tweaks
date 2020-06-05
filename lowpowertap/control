@@ -1,0 +1,9 @@
+Package: com.agent22922.lowpowertap
+Name: LowPowerTap
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: Toggle LPM by double tapping the right side of the statusbar
+Maintainer: agent22922
+Author: agent22922
+Section: Tweaks

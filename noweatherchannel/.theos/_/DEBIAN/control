@@ -1,0 +1,10 @@
+Package: com.agent22922.noweatherchannel
+Name: NoWeatherChannel
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Hide the weather channel buttons in the weather app
+Maintainer: agent22922
+Author: agent22922
+Section: Tweaks
+Version: 0.0.3
+Installed-Size: 168
