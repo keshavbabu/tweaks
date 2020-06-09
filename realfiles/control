@@ -1,0 +1,9 @@
+Package: com.agent22922.realfiles
+Name: RealFiles
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Show the full filename in the Files app
+Maintainer: agent22922
+Author: agent22922
+Section: Tweaks
